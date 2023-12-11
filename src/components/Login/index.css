@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.button-login {
+  color: #303150;
+  font-size: 12px;
+  font-family: 'Roboto';
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 30px;
+  padding-left: 30px;
+  border-radius: 12px;
+  border: none;
+  background-color: #f8fafc;
+}
